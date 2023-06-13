@@ -1,0 +1,8 @@
+#MainMenu {visibility: hidden;}
+footer{visibility: hidden;}
+header{visibility: hidden;}
+
+#get_project{
+    align-items: center;
+    display: flex;
+}
